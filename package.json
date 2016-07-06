@@ -1,0 +1,22 @@
+{
+  "name": "@quailjs/inert",
+  "version": "1.0.0",
+  "description": "## tl;dr",
+  "main": "inert.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alice/inert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alice/inert/issues"
+  },
+  "homepage": "https://github.com/alice/inert#readme",
+  "dependencies": {
+    "benchmark": "^2.1.0"
+  }
+}
