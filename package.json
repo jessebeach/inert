@@ -1,5 +1,5 @@
 {
-  "name": "@quailjs/inert",
+  "name": "inert",
   "version": "1.0.0",
   "description": "## tl;dr",
   "main": "inert.js",
